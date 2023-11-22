@@ -1,0 +1,807 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		F926F9F82AC2BB9800189C0A /* gToqWjuZVGf.swift in Sources */ = {isa = PBXBuildFile; fileRef = F926F9F72AC2BB9800189C0A /* gToqWjuZVGf.swift */; };
+		F926F9FA2AC2BB9800189C0A /* wYtSMdCuxYn.swift in Sources */ = {isa = PBXBuildFile; fileRef = F926F9F92AC2BB9800189C0A /* wYtSMdCuxYn.swift */; };
+		F926F9FC2AC2BB9900189C0A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F926F9FB2AC2BB9900189C0A /* Assets.xcassets */; };
+		F926F9FF2AC2BB9900189C0A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F926F9FE2AC2BB9900189C0A /* Preview Assets.xcassets */; };
+		F926FA072AC2BC1E00189C0A /* hkchXm.swift in Sources */ = {isa = PBXBuildFile; fileRef = F926FA062AC2BC1E00189C0A /* hkchXm.swift */; };
+		F926FA0B2AC2BC4A00189C0A /* lxpVmELDTF.swift in Sources */ = {isa = PBXBuildFile; fileRef = F926FA0A2AC2BC4A00189C0A /* lxpVmELDTF.swift */; };
+		F926FA0D2AC2BC4E00189C0A /* NxYAXaUOOQtRPeD.swift in Sources */ = {isa = PBXBuildFile; fileRef = F926FA0C2AC2BC4E00189C0A /* NxYAXaUOOQtRPeD.swift */; };
+		F926FA0F2AC2BC5200189C0A /* ZAKsTpgYbMa.swift in Sources */ = {isa = PBXBuildFile; fileRef = F926FA0E2AC2BC5200189C0A /* ZAKsTpgYbMa.swift */; };
+		F926FA122AC2BD1C00189C0A /* dEZHcJ.swift in Sources */ = {isa = PBXBuildFile; fileRef = F926FA112AC2BD1C00189C0A /* dEZHcJ.swift */; };
+		F926FA142AC2BD3000189C0A /* pAjRZkQeWj.swift in Sources */ = {isa = PBXBuildFile; fileRef = F926FA132AC2BD3000189C0A /* pAjRZkQeWj.swift */; };
+		F926FA172AC2BD4800189C0A /* AblQaptHRnuQx.swift in Sources */ = {isa = PBXBuildFile; fileRef = F926FA162AC2BD4800189C0A /* AblQaptHRnuQx.swift */; };
+		F926FA192AC2BD5200189C0A /* rQinohgeHGS.swift in Sources */ = {isa = PBXBuildFile; fileRef = F926FA182AC2BD5200189C0A /* rQinohgeHGS.swift */; };
+		F926FA1B2AC2BD5D00189C0A /* rBpVxUybYvvK.swift in Sources */ = {isa = PBXBuildFile; fileRef = F926FA1A2AC2BD5D00189C0A /* rBpVxUybYvvK.swift */; };
+		F926FA1D2AC2BD6B00189C0A /* oIjGnFMxbagKKZOQl.swift in Sources */ = {isa = PBXBuildFile; fileRef = F926FA1C2AC2BD6B00189C0A /* oIjGnFMxbagKKZOQl.swift */; };
+		F926FA1F2AC2BD7500189C0A /* OZDwMzXDNP.swift in Sources */ = {isa = PBXBuildFile; fileRef = F926FA1E2AC2BD7500189C0A /* OZDwMzXDNP.swift */; };
+		F926FA212AC2BD8100189C0A /* kgsbbkQhaJFmu.swift in Sources */ = {isa = PBXBuildFile; fileRef = F926FA202AC2BD8100189C0A /* kgsbbkQhaJFmu.swift */; };
+		F926FA232AC2BD8B00189C0A /* zwumRhynXkQtr.swift in Sources */ = {isa = PBXBuildFile; fileRef = F926FA222AC2BD8B00189C0A /* zwumRhynXkQtr.swift */; };
+		F926FA262AC2BD9D00189C0A /* oqxFW.swift in Sources */ = {isa = PBXBuildFile; fileRef = F926FA252AC2BD9D00189C0A /* oqxFW.swift */; };
+		F926FA292AC2C01E00189C0A /* Navigator in Frameworks */ = {isa = PBXBuildFile; productRef = F926FA282AC2C01E00189C0A /* Navigator */; };
+		F926FA2C2AC2C0A300189C0A /* TTeAroIFkszyvcIkAPy.swift in Sources */ = {isa = PBXBuildFile; fileRef = F926FA2B2AC2C0A300189C0A /* TTeAroIFkszyvcIkAPy.swift */; };
+		F926FA2F2AC2C0AB00189C0A /* xtIzjazEvhHW.swift in Sources */ = {isa = PBXBuildFile; fileRef = F926FA2E2AC2C0AB00189C0A /* xtIzjazEvhHW.swift */; };
+		F926FA322AC2C33400189C0A /* RvwyJZIdZPpM.swift in Sources */ = {isa = PBXBuildFile; fileRef = F926FA312AC2C33300189C0A /* RvwyJZIdZPpM.swift */; };
+		F926FA342AC2C33700189C0A /* AqHOwsdUqGqEkuzde.swift in Sources */ = {isa = PBXBuildFile; fileRef = F926FA332AC2C33700189C0A /* AqHOwsdUqGqEkuzde.swift */; };
+		F926FA362AC2C40700189C0A /* JvoQyfbwEqrjo.swift in Sources */ = {isa = PBXBuildFile; fileRef = F926FA352AC2C40700189C0A /* JvoQyfbwEqrjo.swift */; };
+		F926FA392AC2C61700189C0A /* Alamofire in Frameworks */ = {isa = PBXBuildFile; productRef = F926FA382AC2C61700189C0A /* Alamofire */; };
+		F926FA3C2AC32D8100189C0A /* GPHVIRWtFZWpli.swift in Sources */ = {isa = PBXBuildFile; fileRef = F926FA3B2AC32D8100189C0A /* GPHVIRWtFZWpli.swift */; };
+		F926FA3E2AC32D8600189C0A /* GjTzigwEwiywhTKsrzO.swift in Sources */ = {isa = PBXBuildFile; fileRef = F926FA3D2AC32D8600189C0A /* GjTzigwEwiywhTKsrzO.swift */; };
+		F926FA412AC32E2C00189C0A /* BTXGGmVVrkcL.swift in Sources */ = {isa = PBXBuildFile; fileRef = F926FA402AC32E2C00189C0A /* BTXGGmVVrkcL.swift */; };
+		F926FA432AC32E3200189C0A /* fQitlmSxrHoTWAaWC.swift in Sources */ = {isa = PBXBuildFile; fileRef = F926FA422AC32E3200189C0A /* fQitlmSxrHoTWAaWC.swift */; };
+		F926FA452AC3337000189C0A /* gQGbclNKAsW.swift in Sources */ = {isa = PBXBuildFile; fileRef = F926FA442AC3337000189C0A /* gQGbclNKAsW.swift */; };
+		F92FDEC32ACF324E002C6FFB /* QzOkgncBmbOlTl.swift in Sources */ = {isa = PBXBuildFile; fileRef = F92FDEC22ACF324E002C6FFB /* QzOkgncBmbOlTl.swift */; };
+		F92FDEC62ACF3BEF002C6FFB /* YVBHyzuakAXhsBF.swift in Sources */ = {isa = PBXBuildFile; fileRef = F92FDEC52ACF3BEF002C6FFB /* YVBHyzuakAXhsBF.swift */; };
+		F92FDEC82ACF50F9002C6FFB /* BfZxlbdCuPmJHgeYojvr.swift in Sources */ = {isa = PBXBuildFile; fileRef = F92FDEC72ACF50F9002C6FFB /* BfZxlbdCuPmJHgeYojvr.swift */; };
+		F92FDECA2ACF5BBC002C6FFB /* aTYvLWpgCYWpIkXJ.swift in Sources */ = {isa = PBXBuildFile; fileRef = F92FDEC92ACF5BBC002C6FFB /* aTYvLWpgCYWpIkXJ.swift */; };
+		F92FDECD2ACFF46E002C6FFB /* oueATTUiWCIXLDaSiot.swift in Sources */ = {isa = PBXBuildFile; fileRef = F92FDECC2ACFF46E002C6FFB /* oueATTUiWCIXLDaSiot.swift */; };
+		F93F9D632AD5429A00296568 /* jJdPxiXiYEXvStcSO.swift in Sources */ = {isa = PBXBuildFile; fileRef = F93F9D622AD5429A00296568 /* jJdPxiXiYEXvStcSO.swift */; };
+		F954C1B12ACFFD9A00A7EC6C /* wqwpqEKqSDYU.swift in Sources */ = {isa = PBXBuildFile; fileRef = F954C1B02ACFFD9900A7EC6C /* wqwpqEKqSDYU.swift */; };
+		F954C1BC2AD41FC500A7EC6C /* uXKHnGnEjjOIqYaazQgwL.swift in Sources */ = {isa = PBXBuildFile; fileRef = F954C1BB2AD41FC500A7EC6C /* uXKHnGnEjjOIqYaazQgwL.swift */; };
+		F954C1BF2AD4230600A7EC6C /* Amplitude in Frameworks */ = {isa = PBXBuildFile; productRef = F954C1BE2AD4230600A7EC6C /* Amplitude */; };
+		F954C1C22AD4232A00A7EC6C /* ApphudSDK in Frameworks */ = {isa = PBXBuildFile; productRef = F954C1C12AD4232A00A7EC6C /* ApphudSDK */; };
+		F954C1C52AD437E400A7EC6C /* LKukoqcfwIc.swift in Sources */ = {isa = PBXBuildFile; fileRef = F954C1C42AD437E400A7EC6C /* LKukoqcfwIc.swift */; };
+		F954C1C72AD437EB00A7EC6C /* WMcSjeDjPVpNwKIp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F954C1C62AD437EB00A7EC6C /* WMcSjeDjPVpNwKIp.swift */; };
+		F954C1C92AD43C3200A7EC6C /* yZcoaGiruLAy.swift in Sources */ = {isa = PBXBuildFile; fileRef = F954C1C82AD43C3200A7EC6C /* yZcoaGiruLAy.swift */; };
+		F956B5912ACDFB6E001AC68C /* Launch Screen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F956B5902ACDFB6E001AC68C /* Launch Screen.storyboard */; };
+		F956B5942ACDFDC7001AC68C /* ResultModel.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = F956B5922ACDFDC7001AC68C /* ResultModel.xcdatamodeld */; };
+		F956B5992ACDFF43001AC68C /* NrxhqOWGcjRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = F956B5982ACDFF43001AC68C /* NrxhqOWGcjRow.swift */; };
+		F9BAC30F2AC4258A00C32C99 /* DhXHLpVcQghbahssgS.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9BAC30E2AC4258A00C32C99 /* DhXHLpVcQghbahssgS.swift */; };
+		F9BAC3112AC4258F00C32C99 /* nnotpVICgMFjyHbOMpNQVOM.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9BAC3102AC4258F00C32C99 /* nnotpVICgMFjyHbOMpNQVOM.swift */; };
+		F9BAC3132AC4259300C32C99 /* SwNdwOZQhlHabZeATVV.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9BAC3122AC4259300C32C99 /* SwNdwOZQhlHabZeATVV.swift */; };
+		F9BAC3152AC4276300C32C99 /* TIVViMtAXKXqDf.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9BAC3142AC4276300C32C99 /* TIVViMtAXKXqDf.swift */; };
+		F9BAC3182AC4299800C32C99 /* VHGxrSMkYYVXmtZEi.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9BAC3172AC4299800C32C99 /* VHGxrSMkYYVXmtZEi.swift */; };
+		F9BAC31A2AC42DF900C32C99 /* QSzeJZGFaPliwZusxm.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9BAC3192AC42DF900C32C99 /* QSzeJZGFaPliwZusxm.swift */; };
+		F9BAC31C2AC438F900C32C99 /* hPYEdIetMPVN.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9BAC31B2AC438F900C32C99 /* hPYEdIetMPVN.swift */; };
+		F9BAC3222AC4481600C32C99 /* ZNSTIJzRofeosZbr.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9BAC3212AC4481600C32C99 /* ZNSTIJzRofeosZbr.swift */; };
+		F9BAC3242AC44AA400C32C99 /* IUKOpinASGohxzb.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9BAC3232AC44AA400C32C99 /* IUKOpinASGohxzb.swift */; };
+		F9CA33752ACED55D0037EA42 /* JAWBBsCFuoVdlYJMG.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9CA33742ACED55D0037EA42 /* JAWBBsCFuoVdlYJMG.swift */; };
+		F9CA33772ACED64C0037EA42 /* neusLhpVuqzje.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9CA33762ACED64C0037EA42 /* neusLhpVuqzje.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		F926F9F42AC2BB9800189C0A /* VoiceAI2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = VoiceAI2.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		F926F9F72AC2BB9800189C0A /* gToqWjuZVGf.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = gToqWjuZVGf.swift; sourceTree = "<group>"; };
+		F926F9F92AC2BB9800189C0A /* wYtSMdCuxYn.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = wYtSMdCuxYn.swift; sourceTree = "<group>"; };
+		F926F9FB2AC2BB9900189C0A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		F926F9FE2AC2BB9900189C0A /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		F926FA062AC2BC1E00189C0A /* hkchXm.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = hkchXm.swift; sourceTree = "<group>"; };
+		F926FA0A2AC2BC4A00189C0A /* lxpVmELDTF.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = lxpVmELDTF.swift; sourceTree = "<group>"; };
+		F926FA0C2AC2BC4E00189C0A /* NxYAXaUOOQtRPeD.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NxYAXaUOOQtRPeD.swift; sourceTree = "<group>"; };
+		F926FA0E2AC2BC5200189C0A /* ZAKsTpgYbMa.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZAKsTpgYbMa.swift; sourceTree = "<group>"; };
+		F926FA112AC2BD1C00189C0A /* dEZHcJ.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = dEZHcJ.swift; sourceTree = "<group>"; };
+		F926FA132AC2BD3000189C0A /* pAjRZkQeWj.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = pAjRZkQeWj.swift; sourceTree = "<group>"; };
+		F926FA162AC2BD4800189C0A /* AblQaptHRnuQx.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AblQaptHRnuQx.swift; sourceTree = "<group>"; };
+		F926FA182AC2BD5200189C0A /* rQinohgeHGS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = rQinohgeHGS.swift; sourceTree = "<group>"; };
+		F926FA1A2AC2BD5D00189C0A /* rBpVxUybYvvK.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = rBpVxUybYvvK.swift; sourceTree = "<group>"; };
+		F926FA1C2AC2BD6B00189C0A /* oIjGnFMxbagKKZOQl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = oIjGnFMxbagKKZOQl.swift; sourceTree = "<group>"; };
+		F926FA1E2AC2BD7500189C0A /* OZDwMzXDNP.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OZDwMzXDNP.swift; sourceTree = "<group>"; };
+		F926FA202AC2BD8100189C0A /* kgsbbkQhaJFmu.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = kgsbbkQhaJFmu.swift; sourceTree = "<group>"; };
+		F926FA222AC2BD8B00189C0A /* zwumRhynXkQtr.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = zwumRhynXkQtr.swift; sourceTree = "<group>"; };
+		F926FA252AC2BD9D00189C0A /* oqxFW.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = oqxFW.swift; sourceTree = "<group>"; };
+		F926FA2B2AC2C0A300189C0A /* TTeAroIFkszyvcIkAPy.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TTeAroIFkszyvcIkAPy.swift; sourceTree = "<group>"; };
+		F926FA2E2AC2C0AB00189C0A /* xtIzjazEvhHW.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = xtIzjazEvhHW.swift; sourceTree = "<group>"; };
+		F926FA312AC2C33300189C0A /* RvwyJZIdZPpM.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RvwyJZIdZPpM.swift; sourceTree = "<group>"; };
+		F926FA332AC2C33700189C0A /* AqHOwsdUqGqEkuzde.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AqHOwsdUqGqEkuzde.swift; sourceTree = "<group>"; };
+		F926FA352AC2C40700189C0A /* JvoQyfbwEqrjo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JvoQyfbwEqrjo.swift; sourceTree = "<group>"; };
+		F926FA3B2AC32D8100189C0A /* GPHVIRWtFZWpli.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GPHVIRWtFZWpli.swift; sourceTree = "<group>"; };
+		F926FA3D2AC32D8600189C0A /* GjTzigwEwiywhTKsrzO.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GjTzigwEwiywhTKsrzO.swift; sourceTree = "<group>"; };
+		F926FA402AC32E2C00189C0A /* BTXGGmVVrkcL.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BTXGGmVVrkcL.swift; sourceTree = "<group>"; };
+		F926FA422AC32E3200189C0A /* fQitlmSxrHoTWAaWC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = fQitlmSxrHoTWAaWC.swift; sourceTree = "<group>"; };
+		F926FA442AC3337000189C0A /* gQGbclNKAsW.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = gQGbclNKAsW.swift; sourceTree = "<group>"; };
+		F926FA462AC3412F00189C0A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		F92FDEC22ACF324E002C6FFB /* QzOkgncBmbOlTl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QzOkgncBmbOlTl.swift; sourceTree = "<group>"; };
+		F92FDEC52ACF3BEF002C6FFB /* YVBHyzuakAXhsBF.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YVBHyzuakAXhsBF.swift; sourceTree = "<group>"; };
+		F92FDEC72ACF50F9002C6FFB /* BfZxlbdCuPmJHgeYojvr.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BfZxlbdCuPmJHgeYojvr.swift; sourceTree = "<group>"; };
+		F92FDEC92ACF5BBC002C6FFB /* aTYvLWpgCYWpIkXJ.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = aTYvLWpgCYWpIkXJ.swift; sourceTree = "<group>"; };
+		F92FDECC2ACFF46E002C6FFB /* oueATTUiWCIXLDaSiot.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = oueATTUiWCIXLDaSiot.swift; sourceTree = "<group>"; };
+		F93F9D622AD5429A00296568 /* jJdPxiXiYEXvStcSO.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = jJdPxiXiYEXvStcSO.swift; sourceTree = "<group>"; };
+		F954C1B02ACFFD9900A7EC6C /* wqwpqEKqSDYU.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = wqwpqEKqSDYU.swift; sourceTree = "<group>"; };
+		F954C1BB2AD41FC500A7EC6C /* uXKHnGnEjjOIqYaazQgwL.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = uXKHnGnEjjOIqYaazQgwL.swift; sourceTree = "<group>"; };
+		F954C1C42AD437E400A7EC6C /* LKukoqcfwIc.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LKukoqcfwIc.swift; sourceTree = "<group>"; };
+		F954C1C62AD437EB00A7EC6C /* WMcSjeDjPVpNwKIp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WMcSjeDjPVpNwKIp.swift; sourceTree = "<group>"; };
+		F954C1C82AD43C3200A7EC6C /* yZcoaGiruLAy.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = yZcoaGiruLAy.swift; sourceTree = "<group>"; };
+		F956B5902ACDFB6E001AC68C /* Launch Screen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = "Launch Screen.storyboard"; sourceTree = "<group>"; };
+		F956B5932ACDFDC7001AC68C /* ResultModel.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = ResultModel.xcdatamodel; sourceTree = "<group>"; };
+		F956B5982ACDFF43001AC68C /* NrxhqOWGcjRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NrxhqOWGcjRow.swift; sourceTree = "<group>"; };
+		F9BAC30E2AC4258A00C32C99 /* DhXHLpVcQghbahssgS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DhXHLpVcQghbahssgS.swift; sourceTree = "<group>"; };
+		F9BAC3102AC4258F00C32C99 /* nnotpVICgMFjyHbOMpNQVOM.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = nnotpVICgMFjyHbOMpNQVOM.swift; sourceTree = "<group>"; };
+		F9BAC3122AC4259300C32C99 /* SwNdwOZQhlHabZeATVV.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwNdwOZQhlHabZeATVV.swift; sourceTree = "<group>"; };
+		F9BAC3142AC4276300C32C99 /* TIVViMtAXKXqDf.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TIVViMtAXKXqDf.swift; sourceTree = "<group>"; };
+		F9BAC3172AC4299800C32C99 /* VHGxrSMkYYVXmtZEi.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VHGxrSMkYYVXmtZEi.swift; sourceTree = "<group>"; };
+		F9BAC3192AC42DF900C32C99 /* QSzeJZGFaPliwZusxm.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QSzeJZGFaPliwZusxm.swift; sourceTree = "<group>"; };
+		F9BAC31B2AC438F900C32C99 /* hPYEdIetMPVN.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = hPYEdIetMPVN.swift; sourceTree = "<group>"; };
+		F9BAC3212AC4481600C32C99 /* ZNSTIJzRofeosZbr.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZNSTIJzRofeosZbr.swift; sourceTree = "<group>"; };
+		F9BAC3232AC44AA400C32C99 /* IUKOpinASGohxzb.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IUKOpinASGohxzb.swift; sourceTree = "<group>"; };
+		F9CA33742ACED55D0037EA42 /* JAWBBsCFuoVdlYJMG.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JAWBBsCFuoVdlYJMG.swift; sourceTree = "<group>"; };
+		F9CA33762ACED64C0037EA42 /* neusLhpVuqzje.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = neusLhpVuqzje.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		F926F9F12AC2BB9800189C0A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F954C1BF2AD4230600A7EC6C /* Amplitude in Frameworks */,
+				F954C1C22AD4232A00A7EC6C /* ApphudSDK in Frameworks */,
+				F926FA292AC2C01E00189C0A /* Navigator in Frameworks */,
+				F926FA392AC2C61700189C0A /* Alamofire in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		F926F9EB2AC2BB9800189C0A = {
+			isa = PBXGroup;
+			children = (
+				F926F9F62AC2BB9800189C0A /* VoiceAI2 */,
+				F926F9F52AC2BB9800189C0A /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		F926F9F52AC2BB9800189C0A /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				F926F9F42AC2BB9800189C0A /* VoiceAI2.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		F926F9F62AC2BB9800189C0A /* VoiceAI2 */ = {
+			isa = PBXGroup;
+			children = (
+				F926FA462AC3412F00189C0A /* Info.plist */,
+				F926F9F72AC2BB9800189C0A /* gToqWjuZVGf.swift */,
+				F926F9F92AC2BB9800189C0A /* wYtSMdCuxYn.swift */,
+				F956B5902ACDFB6E001AC68C /* Launch Screen.storyboard */,
+				F926FA052AC2BC1400189C0A /* ArAegFy */,
+				F926F9FB2AC2BB9900189C0A /* Assets.xcassets */,
+				F926F9FD2AC2BB9900189C0A /* Preview Content */,
+			);
+			path = VoiceAI2;
+			sourceTree = "<group>";
+		};
+		F926F9FD2AC2BB9900189C0A /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				F926F9FE2AC2BB9900189C0A /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		F926FA052AC2BC1400189C0A /* ArAegFy */ = {
+			isa = PBXGroup;
+			children = (
+				F926FA092AC2BC2300189C0A /* sYcDKduVFw */,
+				F926FA062AC2BC1E00189C0A /* hkchXm.swift */,
+				F954C1C32AD437DE00A7EC6C /* HUdYrhN */,
+				F926FA3F2AC32E2700189C0A /* JxMshDTt */,
+				F926FA3A2AC32D7C00189C0A /* aIiQizBgkV */,
+				F926FA302AC2C32C00189C0A /* ecPUAMdY */,
+				F926FA082AC2BC2000189C0A /* OhhiYy */,
+			);
+			path = ArAegFy;
+			sourceTree = "<group>";
+		};
+		F926FA082AC2BC2000189C0A /* OhhiYy */ = {
+			isa = PBXGroup;
+			children = (
+				F926FA2D2AC2C0A500189C0A /* ARBoRByhinzj */,
+				F926FA2A2AC2C09D00189C0A /* fhIRfpdCHEqyNgrJVVb */,
+				F926FA0A2AC2BC4A00189C0A /* lxpVmELDTF.swift */,
+				F926FA0C2AC2BC4E00189C0A /* NxYAXaUOOQtRPeD.swift */,
+				F926FA0E2AC2BC5200189C0A /* ZAKsTpgYbMa.swift */,
+			);
+			path = OhhiYy;
+			sourceTree = "<group>";
+		};
+		F926FA092AC2BC2300189C0A /* sYcDKduVFw */ = {
+			isa = PBXGroup;
+			children = (
+				F956B5952ACDFF34001AC68C /* MWdLXoGw */,
+				F926FA242AC2BD9800189C0A /* yJFAC */,
+				F926FA152AC2BD4100189C0A /* bTGeLQNJV */,
+				F926FA102AC2BD1800189C0A /* EswzX */,
+			);
+			path = sYcDKduVFw;
+			sourceTree = "<group>";
+		};
+		F926FA102AC2BD1800189C0A /* EswzX */ = {
+			isa = PBXGroup;
+			children = (
+				F92FDEC92ACF5BBC002C6FFB /* aTYvLWpgCYWpIkXJ.swift */,
+				F926FA112AC2BD1C00189C0A /* dEZHcJ.swift */,
+				F926FA132AC2BD3000189C0A /* pAjRZkQeWj.swift */,
+				F926FA442AC3337000189C0A /* gQGbclNKAsW.swift */,
+				F9CA33742ACED55D0037EA42 /* JAWBBsCFuoVdlYJMG.swift */,
+				F9BAC3232AC44AA400C32C99 /* IUKOpinASGohxzb.swift */,
+				F93F9D622AD5429A00296568 /* jJdPxiXiYEXvStcSO.swift */,
+			);
+			path = EswzX;
+			sourceTree = "<group>";
+		};
+		F926FA152AC2BD4100189C0A /* bTGeLQNJV */ = {
+			isa = PBXGroup;
+			children = (
+				F926FA162AC2BD4800189C0A /* AblQaptHRnuQx.swift */,
+				F926FA182AC2BD5200189C0A /* rQinohgeHGS.swift */,
+				F926FA1A2AC2BD5D00189C0A /* rBpVxUybYvvK.swift */,
+				F926FA1C2AC2BD6B00189C0A /* oIjGnFMxbagKKZOQl.swift */,
+				F926FA1E2AC2BD7500189C0A /* OZDwMzXDNP.swift */,
+				F926FA202AC2BD8100189C0A /* kgsbbkQhaJFmu.swift */,
+				F926FA222AC2BD8B00189C0A /* zwumRhynXkQtr.swift */,
+				F954C1B02ACFFD9900A7EC6C /* wqwpqEKqSDYU.swift */,
+			);
+			path = bTGeLQNJV;
+			sourceTree = "<group>";
+		};
+		F926FA242AC2BD9800189C0A /* yJFAC */ = {
+			isa = PBXGroup;
+			children = (
+				F926FA252AC2BD9D00189C0A /* oqxFW.swift */,
+				F9BAC3142AC4276300C32C99 /* TIVViMtAXKXqDf.swift */,
+				F9BAC3192AC42DF900C32C99 /* QSzeJZGFaPliwZusxm.swift */,
+				F9BAC31B2AC438F900C32C99 /* hPYEdIetMPVN.swift */,
+				F9CA33762ACED64C0037EA42 /* neusLhpVuqzje.swift */,
+				F92FDEC22ACF324E002C6FFB /* QzOkgncBmbOlTl.swift */,
+			);
+			path = yJFAC;
+			sourceTree = "<group>";
+		};
+		F926FA2A2AC2C09D00189C0A /* fhIRfpdCHEqyNgrJVVb */ = {
+			isa = PBXGroup;
+			children = (
+				F926FA2B2AC2C0A300189C0A /* TTeAroIFkszyvcIkAPy.swift */,
+			);
+			path = fhIRfpdCHEqyNgrJVVb;
+			sourceTree = "<group>";
+		};
+		F926FA2D2AC2C0A500189C0A /* ARBoRByhinzj */ = {
+			isa = PBXGroup;
+			children = (
+				F926FA2E2AC2C0AB00189C0A /* xtIzjazEvhHW.swift */,
+				F954C1BB2AD41FC500A7EC6C /* uXKHnGnEjjOIqYaazQgwL.swift */,
+			);
+			path = ARBoRByhinzj;
+			sourceTree = "<group>";
+		};
+		F926FA302AC2C32C00189C0A /* ecPUAMdY */ = {
+			isa = PBXGroup;
+			children = (
+				F9BAC3162AC4298E00C32C99 /* NFiTEzFwbdKhPRTah */,
+				F92FDEC42ACF3BE2002C6FFB /* lgYKozHfMtk */,
+				F9BAC30D2AC4258100C32C99 /* UPjOBZpNarozgV */,
+				F926FA312AC2C33300189C0A /* RvwyJZIdZPpM.swift */,
+				F926FA332AC2C33700189C0A /* AqHOwsdUqGqEkuzde.swift */,
+				F926FA352AC2C40700189C0A /* JvoQyfbwEqrjo.swift */,
+				F956B5922ACDFDC7001AC68C /* ResultModel.xcdatamodeld */,
+			);
+			path = ecPUAMdY;
+			sourceTree = "<group>";
+		};
+		F926FA3A2AC32D7C00189C0A /* aIiQizBgkV */ = {
+			isa = PBXGroup;
+			children = (
+				F9BAC3202AC4480E00C32C99 /* VSTUwAVpjaQUajci */,
+				F926FA3B2AC32D8100189C0A /* GPHVIRWtFZWpli.swift */,
+				F926FA3D2AC32D8600189C0A /* GjTzigwEwiywhTKsrzO.swift */,
+			);
+			path = aIiQizBgkV;
+			sourceTree = "<group>";
+		};
+		F926FA3F2AC32E2700189C0A /* JxMshDTt */ = {
+			isa = PBXGroup;
+			children = (
+				F926FA402AC32E2C00189C0A /* BTXGGmVVrkcL.swift */,
+				F926FA422AC32E3200189C0A /* fQitlmSxrHoTWAaWC.swift */,
+			);
+			path = JxMshDTt;
+			sourceTree = "<group>";
+		};
+		F92FDEC42ACF3BE2002C6FFB /* lgYKozHfMtk */ = {
+			isa = PBXGroup;
+			children = (
+				F92FDECB2ACFF463002C6FFB /* FWlqMTciYtoTKUU */,
+				F92FDEC52ACF3BEF002C6FFB /* YVBHyzuakAXhsBF.swift */,
+				F92FDEC72ACF50F9002C6FFB /* BfZxlbdCuPmJHgeYojvr.swift */,
+			);
+			path = lgYKozHfMtk;
+			sourceTree = "<group>";
+		};
+		F92FDECB2ACFF463002C6FFB /* FWlqMTciYtoTKUU */ = {
+			isa = PBXGroup;
+			children = (
+				F92FDECC2ACFF46E002C6FFB /* oueATTUiWCIXLDaSiot.swift */,
+			);
+			path = FWlqMTciYtoTKUU;
+			sourceTree = "<group>";
+		};
+		F954C1C32AD437DE00A7EC6C /* HUdYrhN */ = {
+			isa = PBXGroup;
+			children = (
+				F954C1C42AD437E400A7EC6C /* LKukoqcfwIc.swift */,
+				F954C1C62AD437EB00A7EC6C /* WMcSjeDjPVpNwKIp.swift */,
+				F954C1C82AD43C3200A7EC6C /* yZcoaGiruLAy.swift */,
+			);
+			path = HUdYrhN;
+			sourceTree = "<group>";
+		};
+		F956B5952ACDFF34001AC68C /* MWdLXoGw */ = {
+			isa = PBXGroup;
+			children = (
+				F956B5982ACDFF43001AC68C /* NrxhqOWGcjRow.swift */,
+			);
+			path = MWdLXoGw;
+			sourceTree = "<group>";
+		};
+		F9BAC30D2AC4258100C32C99 /* UPjOBZpNarozgV */ = {
+			isa = PBXGroup;
+			children = (
+				F9BAC30E2AC4258A00C32C99 /* DhXHLpVcQghbahssgS.swift */,
+				F9BAC3102AC4258F00C32C99 /* nnotpVICgMFjyHbOMpNQVOM.swift */,
+				F9BAC3122AC4259300C32C99 /* SwNdwOZQhlHabZeATVV.swift */,
+			);
+			path = UPjOBZpNarozgV;
+			sourceTree = "<group>";
+		};
+		F9BAC3162AC4298E00C32C99 /* NFiTEzFwbdKhPRTah */ = {
+			isa = PBXGroup;
+			children = (
+				F9BAC3172AC4299800C32C99 /* VHGxrSMkYYVXmtZEi.swift */,
+			);
+			path = NFiTEzFwbdKhPRTah;
+			sourceTree = "<group>";
+		};
+		F9BAC3202AC4480E00C32C99 /* VSTUwAVpjaQUajci */ = {
+			isa = PBXGroup;
+			children = (
+				F9BAC3212AC4481600C32C99 /* ZNSTIJzRofeosZbr.swift */,
+			);
+			path = VSTUwAVpjaQUajci;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		F926F9F32AC2BB9800189C0A /* VoiceAI2 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F926FA022AC2BB9900189C0A /* Build configuration list for PBXNativeTarget "VoiceAI2" */;
+			buildPhases = (
+				F926F9F02AC2BB9800189C0A /* Sources */,
+				F926F9F12AC2BB9800189C0A /* Frameworks */,
+				F926F9F22AC2BB9800189C0A /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = VoiceAI2;
+			packageProductDependencies = (
+				F926FA282AC2C01E00189C0A /* Navigator */,
+				F926FA382AC2C61700189C0A /* Alamofire */,
+				F954C1BE2AD4230600A7EC6C /* Amplitude */,
+				F954C1C12AD4232A00A7EC6C /* ApphudSDK */,
+			);
+			productName = VoiceAI2;
+			productReference = F926F9F42AC2BB9800189C0A /* VoiceAI2.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		F926F9EC2AC2BB9800189C0A /* ArAegFy object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1500;
+				LastUpgradeCheck = 1500;
+				TargetAttributes = {
+					F926F9F32AC2BB9800189C0A = {
+						CreatedOnToolsVersion = 15.0;
+					};
+				};
+			};
+			buildConfigurationList = F926F9EF2AC2BB9800189C0A /* Build configuration list for PBXProject "VoiceAI2" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = F926F9EB2AC2BB9800189C0A;
+			packageReferences = (
+				F926FA272AC2C01E00189C0A /* XCRemoteSwiftPackageReference "Navigator" */,
+				F926FA372AC2C61700189C0A /* XCRemoteSwiftPackageReference "Alamofire" */,
+				F954C1BD2AD4230600A7EC6C /* XCRemoteSwiftPackageReference "Amplitude-iOS" */,
+				F954C1C02AD4232A00A7EC6C /* XCRemoteSwiftPackageReference "ApphudSDK" */,
+			);
+			productRefGroup = F926F9F52AC2BB9800189C0A /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				F926F9F32AC2BB9800189C0A /* VoiceAI2 */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		F926F9F22AC2BB9800189C0A /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F956B5912ACDFB6E001AC68C /* Launch Screen.storyboard in Resources */,
+				F926F9FF2AC2BB9900189C0A /* Preview Assets.xcassets in Resources */,
+				F926F9FC2AC2BB9900189C0A /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		F926F9F02AC2BB9800189C0A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F92FDEC62ACF3BEF002C6FFB /* YVBHyzuakAXhsBF.swift in Sources */,
+				F926FA2F2AC2C0AB00189C0A /* xtIzjazEvhHW.swift in Sources */,
+				F926FA362AC2C40700189C0A /* JvoQyfbwEqrjo.swift in Sources */,
+				F926FA0F2AC2BC5200189C0A /* ZAKsTpgYbMa.swift in Sources */,
+				F926FA0D2AC2BC4E00189C0A /* NxYAXaUOOQtRPeD.swift in Sources */,
+				F926FA072AC2BC1E00189C0A /* hkchXm.swift in Sources */,
+				F9BAC31C2AC438F900C32C99 /* hPYEdIetMPVN.swift in Sources */,
+				F926FA0B2AC2BC4A00189C0A /* lxpVmELDTF.swift in Sources */,
+				F9BAC3152AC4276300C32C99 /* TIVViMtAXKXqDf.swift in Sources */,
+				F926FA342AC2C33700189C0A /* AqHOwsdUqGqEkuzde.swift in Sources */,
+				F926FA192AC2BD5200189C0A /* rQinohgeHGS.swift in Sources */,
+				F954C1C92AD43C3200A7EC6C /* yZcoaGiruLAy.swift in Sources */,
+				F9BAC30F2AC4258A00C32C99 /* DhXHLpVcQghbahssgS.swift in Sources */,
+				F926FA3C2AC32D8100189C0A /* GPHVIRWtFZWpli.swift in Sources */,
+				F926FA412AC32E2C00189C0A /* BTXGGmVVrkcL.swift in Sources */,
+				F926FA432AC32E3200189C0A /* fQitlmSxrHoTWAaWC.swift in Sources */,
+				F92FDEC82ACF50F9002C6FFB /* BfZxlbdCuPmJHgeYojvr.swift in Sources */,
+				F926FA262AC2BD9D00189C0A /* oqxFW.swift in Sources */,
+				F926FA1F2AC2BD7500189C0A /* OZDwMzXDNP.swift in Sources */,
+				F956B5992ACDFF43001AC68C /* NrxhqOWGcjRow.swift in Sources */,
+				F926FA452AC3337000189C0A /* gQGbclNKAsW.swift in Sources */,
+				F926F9FA2AC2BB9800189C0A /* wYtSMdCuxYn.swift in Sources */,
+				F9BAC3182AC4299800C32C99 /* VHGxrSMkYYVXmtZEi.swift in Sources */,
+				F9BAC3112AC4258F00C32C99 /* nnotpVICgMFjyHbOMpNQVOM.swift in Sources */,
+				F954C1C72AD437EB00A7EC6C /* WMcSjeDjPVpNwKIp.swift in Sources */,
+				F926FA172AC2BD4800189C0A /* AblQaptHRnuQx.swift in Sources */,
+				F954C1C52AD437E400A7EC6C /* LKukoqcfwIc.swift in Sources */,
+				F92FDECD2ACFF46E002C6FFB /* oueATTUiWCIXLDaSiot.swift in Sources */,
+				F9CA33752ACED55D0037EA42 /* JAWBBsCFuoVdlYJMG.swift in Sources */,
+				F954C1B12ACFFD9A00A7EC6C /* wqwpqEKqSDYU.swift in Sources */,
+				F926FA122AC2BD1C00189C0A /* dEZHcJ.swift in Sources */,
+				F926FA212AC2BD8100189C0A /* kgsbbkQhaJFmu.swift in Sources */,
+				F926FA1D2AC2BD6B00189C0A /* oIjGnFMxbagKKZOQl.swift in Sources */,
+				F926FA1B2AC2BD5D00189C0A /* rBpVxUybYvvK.swift in Sources */,
+				F954C1BC2AD41FC500A7EC6C /* uXKHnGnEjjOIqYaazQgwL.swift in Sources */,
+				F926F9F82AC2BB9800189C0A /* gToqWjuZVGf.swift in Sources */,
+				F926FA142AC2BD3000189C0A /* pAjRZkQeWj.swift in Sources */,
+				F926FA232AC2BD8B00189C0A /* zwumRhynXkQtr.swift in Sources */,
+				F956B5942ACDFDC7001AC68C /* ResultModel.xcdatamodeld in Sources */,
+				F93F9D632AD5429A00296568 /* jJdPxiXiYEXvStcSO.swift in Sources */,
+				F9BAC3222AC4481600C32C99 /* ZNSTIJzRofeosZbr.swift in Sources */,
+				F92FDEC32ACF324E002C6FFB /* QzOkgncBmbOlTl.swift in Sources */,
+				F9BAC31A2AC42DF900C32C99 /* QSzeJZGFaPliwZusxm.swift in Sources */,
+				F926FA3E2AC32D8600189C0A /* GjTzigwEwiywhTKsrzO.swift in Sources */,
+				F9CA33772ACED64C0037EA42 /* neusLhpVuqzje.swift in Sources */,
+				F926FA2C2AC2C0A300189C0A /* TTeAroIFkszyvcIkAPy.swift in Sources */,
+				F9BAC3132AC4259300C32C99 /* SwNdwOZQhlHabZeATVV.swift in Sources */,
+				F92FDECA2ACF5BBC002C6FFB /* aTYvLWpgCYWpIkXJ.swift in Sources */,
+				F926FA322AC2C33400189C0A /* RvwyJZIdZPpM.swift in Sources */,
+				F9BAC3242AC44AA400C32C99 /* IUKOpinASGohxzb.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		F926FA002AC2BB9900189C0A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = fast;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		F926FA012AC2BB9900189C0A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = fast;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		F926FA032AC2BB9900189C0A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 3;
+				DEVELOPMENT_ASSET_PATHS = "\"VoiceAI2/Preview Content\"";
+				DEVELOPMENT_TEAM = SVFUM3B54N;
+				ENABLE_PREVIEWS = YES;
+				GCC_OPTIMIZATION_LEVEL = fast;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = VoiceAI2/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "Voice AI. Speech";
+				INFOPLIST_KEY_NSCameraUsageDescription = "We need your permission to access the camera to record you to generate the character's voice ";
+				INFOPLIST_KEY_NSMicrophoneUsageDescription = "We need your permission to use text recognition from your selected video so that we can fully utilize our features. ";
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "You need to give us access to your gallery so you can select videos and use our features";
+				INFOPLIST_KEY_NSSpeechRecognitionUsageDescription = "We need your permission to use text recognition from your selected video so that we can fully utilize our features. ";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = "Launch Screen.storyboard";
+				INFOPLIST_KEY_UIStatusBarStyle = UIStatusBarStyleDarkContent;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.2;
+				PRODUCT_BUNDLE_IDENTIFIER = com.con.aivoicegen11rator;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		F926FA042AC2BB9900189C0A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 3;
+				DEVELOPMENT_ASSET_PATHS = "\"VoiceAI2/Preview Content\"";
+				DEVELOPMENT_TEAM = SVFUM3B54N;
+				ENABLE_PREVIEWS = YES;
+				GCC_OPTIMIZATION_LEVEL = fast;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = VoiceAI2/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "Voice AI. Speech";
+				INFOPLIST_KEY_NSCameraUsageDescription = "We need your permission to access the camera to record you to generate the character's voice ";
+				INFOPLIST_KEY_NSMicrophoneUsageDescription = "We need your permission to use text recognition from your selected video so that we can fully utilize our features. ";
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "You need to give us access to your gallery so you can select videos and use our features";
+				INFOPLIST_KEY_NSSpeechRecognitionUsageDescription = "We need your permission to use text recognition from your selected video so that we can fully utilize our features. ";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = "Launch Screen.storyboard";
+				INFOPLIST_KEY_UIStatusBarStyle = UIStatusBarStyleDarkContent;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.2;
+				PRODUCT_BUNDLE_IDENTIFIER = com.con.aivoicegen11rator;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		F926F9EF2AC2BB9800189C0A /* Build configuration list for PBXProject "VoiceAI2" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F926FA002AC2BB9900189C0A /* Debug */,
+				F926FA012AC2BB9900189C0A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		F926FA022AC2BB9900189C0A /* Build configuration list for PBXNativeTarget "VoiceAI2" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F926FA032AC2BB9900189C0A /* Debug */,
+				F926FA042AC2BB9900189C0A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		F926FA272AC2C01E00189C0A /* XCRemoteSwiftPackageReference "Navigator" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/dehrom/Navigator.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 0.2.0;
+			};
+		};
+		F926FA372AC2C61700189C0A /* XCRemoteSwiftPackageReference "Alamofire" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/Alamofire/Alamofire.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 5.8.0;
+			};
+		};
+		F954C1BD2AD4230600A7EC6C /* XCRemoteSwiftPackageReference "Amplitude-iOS" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/amplitude/Amplitude-iOS.git";
+			requirement = {
+				branch = main;
+				kind = branch;
+			};
+		};
+		F954C1C02AD4232A00A7EC6C /* XCRemoteSwiftPackageReference "ApphudSDK" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/apphud/ApphudSDK";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 3.0.1;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		F926FA282AC2C01E00189C0A /* Navigator */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = F926FA272AC2C01E00189C0A /* XCRemoteSwiftPackageReference "Navigator" */;
+			productName = Navigator;
+		};
+		F926FA382AC2C61700189C0A /* Alamofire */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = F926FA372AC2C61700189C0A /* XCRemoteSwiftPackageReference "Alamofire" */;
+			productName = Alamofire;
+		};
+		F954C1BE2AD4230600A7EC6C /* Amplitude */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = F954C1BD2AD4230600A7EC6C /* XCRemoteSwiftPackageReference "Amplitude-iOS" */;
+			productName = Amplitude;
+		};
+		F954C1C12AD4232A00A7EC6C /* ApphudSDK */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = F954C1C02AD4232A00A7EC6C /* XCRemoteSwiftPackageReference "ApphudSDK" */;
+			productName = ApphudSDK;
+		};
+/* End XCSwiftPackageProductDependency section */
+
+/* Begin XCVersionGroup section */
+		F956B5922ACDFDC7001AC68C /* ResultModel.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				F956B5932ACDFDC7001AC68C /* ResultModel.xcdatamodel */,
+			);
+			currentVersion = F956B5932ACDFDC7001AC68C /* ResultModel.xcdatamodel */;
+			path = ResultModel.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
+	};
+	rootObject = F926F9EC2AC2BB9800189C0A /* ArAegFy object */;
+}
